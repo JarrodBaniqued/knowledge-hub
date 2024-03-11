@@ -3,12 +3,18 @@ public
 .vscode
 __pycache__
 
+# Dev containers
+nohup.out
+
 # Exclude YouTube video data from YouTube API (would soil git history)
 data/video_data.json
 data/channel_data.json
 
 # Exclude script-generated files
 scripts/onboarding_pr_message.md
+
+#Exclude OG previews (build process)
+static/previews
 
 # Svelte
 .DS_Store

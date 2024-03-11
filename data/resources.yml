@@ -34,10 +34,13 @@
   url: https://extinctionrebellion.us/get-involved
 - description: The Citizens' Climate Lobby empowers citizens to work with their elected representatives to create policies that tackle climate change.
   tags:
+    - Contacting representatives
+    - Politics/US
     - Organizations
+    - Individual Action
     - Collective Action
   title: Citizens' Climate Lobby
-  url: https://citizensclimatelobby.org/
+  url: https://citizensclimatelobby.org/get-loud-take-action/
 - description: The Union of Concerned Scientists is a science-based advocacy organization that works to protect human health and the environment through the use of science, policy, and advocacy.
   tags:
     - Organizations
@@ -565,3 +568,70 @@
     - Climate Models
   title: NASA Earth Information Center
   url: https://gis.earthdata.nasa.gov/portal/apps/sites/#/earth-information-center
+- description: The Intergovernmental Panel on Climate Change (IPCC) is the United Nations body for assessing the science related to climate change.
+  tags:
+    - Organizations
+  title: Intergovernmental Panel on Climate Change (IPCC)
+  url: https://www.ipcc.ch/
+- description: The National Caucus of Environmental Legislators’ (NCEL) mission is to empower a nonpartisan network of legislative champions to protect, conserve, and improve the natural and human environment through research, education, and networking.
+  tags:
+    - Politics
+    - Education
+    - Research
+  title: NCEL
+  url: https://www.ncelenviro.org/
+- description: The Energy and Policy Institute is a watchdog organization working to expose attacks on renewable energy and counter misinformation by fossil fuel and utility interests.
+  tags:
+    - Climate Accountability
+    - Education
+  title: Energy and Policy Institute
+  url: https://energyandpolicy.org/
+- description: World Weather Attribution uses weather observations and climate models to understand how climate change influences the intensity and likelihood of extreme weather events. The studies also assess the role of vulnerability and exposure in the extent of the impacts.
+  tags:
+    - Research
+  title: World Weather Attribution
+  url: https://www.worldweatherattribution.org/
+- description: An archival database of hard-to-find news, information and documents about climate change and its perpetrators, found through a 20-year effort.
+  tags:
+    - Climate Accountability
+    - Climate Journalism
+  title: Climate Files
+  url: https://www.climatefiles.com/about-2/
+- description: The Restor network connects people and environmental restoration projects, while providing access to data and funding. Restor is also a charitable foundation, and partners with some of the world's most impactful environmental organizations.
+  tags:
+    - Tools
+    - Organizations
+  title: Restor
+  url: https://restor.eco/
+- description: The "Accelerating Decarbonization in the United States" report provides a comprehensive set of actionable recommendations to help policymakers achieve a just and equitable energy transition over the next decade and beyond, including policy, technology, and societal dimensions.
+  tags:
+    - Research
+    - Politics/US
+    - Education
+  title: "US National Academies: 2023 Decarbonization Guide"
+  url: https://nap.nationalacademies.org/resource/25931/interactive/
+- description: Based in the US, Beyond Plastics is a nation-wide project using policy and advocacy expertise to build a well-informed movement seeking to end plastic pollution.
+  tags:
+    - Organizations
+    - Pollution
+    - location/US
+  title: Beyond Plastics
+  url: https://www.beyondplastics.org/
+- description: A not-for-profit investigative journalism organization reporting on climate change.
+  tags:
+    - Climate Journalism
+    - Organizations
+  title: Centre for Climate Change Reporting
+  url: https://climate-reporting.org
+- description: An independent think tank producing data-driven analysis on how business and finance are impacting the climate crisis.
+  tags:
+    - Climate Accountability
+    - Politics/Global
+  title: InfluenceMap
+  url: https://influencemap.org/
+- description: A project that identify inactive environmentalists and transform them into consistent voters to build the power of the environmental movement.
+  tags:
+    - Politics/US
+    - Individual Action
+  title: Environmental Voter Project
+  url: https://www.environmentalvoter.org/
